@@ -6,4 +6,4 @@ config {
 SELECT
   *
 FROM
-  ${ref("first_model")}
+  ${ref("first_view")}
